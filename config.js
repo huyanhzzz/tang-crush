@@ -8,7 +8,7 @@ const CONFIG = {
     title: 'Phải chăng nay là sinh của bà hmm... 😙',
     desc: 'Có lẽ đúng là như vậy ',
     btnYes: 'Không 15-7-2003 mới đúng :v',
-    btnNo: '15-7-2018 phải không ta?? ',
+    btnNo: '15-7-2018 phải không nhỉ?? ',
     question:'Trên thế giới hơn 7 tỉ người mà sao lại có 1 cô gái cá tính lại dễ thương mà hay quạo thôi <3',
     btnReply: 'Ngoài giỏi văn còn biết đánh bóng chuyền nữa <3',
     reply: 'Nay sinh nhật phải thật vui đó !!!',
