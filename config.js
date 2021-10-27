@@ -15,4 +15,6 @@ const CONFIG = {
     mess: 'Chúc cô gái tuổi mới càng xinh đẹp, dễ thương hơn và thành công hơn trong con đường sau này mà có tui nữa :)) 😘😘',
     messDesc: 'Phải luôn mĩm cười nữa.',
     btnAccept: 'Okiiiii nhaaaa <3',
- 
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
+
